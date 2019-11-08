@@ -1,4 +1,4 @@
-# Foobar
+# INTRODUCTION
 
 Payslip Backend API
 
@@ -19,11 +19,11 @@ npm run start
 
 ###### Properties
 
-- firstname: Saurabh (string, required) - The unique identifier for a product
-- lastname: Verma (string, required) - Name of the product
-- annualSalary: 60050 (number, required)
-- superRate:  9 (number, required, fixed-range)
-- paymentStartDate: 10-28-2019 (Date[MM-DD-YYYY], required)
+- firstname: Saurabh (string, required) - Employee Firstname
+- lastname: Verma (string, required) - Employee Lastname
+- annualSalary: 60050 (number, required) - Annual Salary
+- superRate:  9 (number, required, fixed-range) - Suoer Rate (0% - 9%)
+- paymentStartDate: 10-28-2019 (Date[MM-DD-YYYY], required) - Payment Start Date
 
 #### JSON
 
