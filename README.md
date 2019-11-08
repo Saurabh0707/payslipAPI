@@ -22,7 +22,7 @@ npm run start
 - firstname: Saurabh (string, required) - Employee Firstname
 - lastname: Verma (string, required) - Employee Lastname
 - annualSalary: 60050 (number, required) - Annual Salary
-- superRate:  9 (number, required, fixed-range) - Suoer Rate (0% - 9%)
+- superRate:  9 (number, required, fixed-range) - Super Rate (0% - %)
 - paymentStartDate: 10-28-2019 (Date[MM-DD-YYYY], required) - Payment Start Date
 
 #### JSON
