@@ -1,0 +1,32 @@
+{"data":
+        [{
+            "minsal": 0,
+            "maxsal": 18200,
+            "basicTax": 0,
+            "extraPerUSD": 0
+        },
+        {
+            "minsal": 18201,
+            "maxsal": 37000,
+            "basicTax": 0,
+            "extraPerUSD": 0.19
+        },
+        {
+            "minsal": 37001,
+            "maxsal": 90000,
+            "basicTax": 3572,
+            "extraPerUSD": 0.325
+        },
+        {
+            "minsal": 90001,
+            "maxsal": 180000,
+            "basicTax": 20797,
+            "extraPerUSD": 0.37
+        },
+        {
+            "minsal": 180001,
+            "maxsal": null,
+            "basicTax": 54097,
+            "extraPerUSD": 0.45
+        }]
+}
